@@ -4,7 +4,7 @@ import Pagination from '@/app/ui/Pagination';
 import { useQuery } from '@tanstack/react-query';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { use, useEffect, useMemo, useRef, useState } from 'react';
+import { use, useEffect, useRef, useState } from 'react';
 
 export default function Articles({
   searchParams,

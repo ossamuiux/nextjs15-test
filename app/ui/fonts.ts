@@ -1,4 +1,4 @@
-import { Montserrat, Lusitana, Noto_Sans_KR } from 'next/font/google';
+import { Montserrat, Lusitana } from 'next/font/google';
 import localFont from 'next/font/local';
 
 // 변수형 폰트는 weight지정없이 사용

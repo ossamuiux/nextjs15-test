@@ -13,7 +13,7 @@ export default function Comments() {
 
   const queryClient = useQueryClient();
 
-  const { isPending, data, isError, error } = useQuery({
+  const { data } = useQuery({
     queryKey: ['comments'],
     queryFn: () => {
       return fetch('http://localhost:3000/comments/api').then((res) =>

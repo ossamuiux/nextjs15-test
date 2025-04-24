@@ -1,4 +1,4 @@
-import { notFound, redirect } from 'next/navigation';
+import { redirect } from 'next/navigation';
 
 // 랜덤 정수 리턴
 // function getRandomInt(count: number) {
