@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "철수",
+    "country": "ko",
+    "lang": "react"
+  },
+  {
+    "id": 2,
+    "name": "영희",
+    "country": "eu",
+    "lang": "nextjs"
+  },
+  {
+    "id": 89,
+    "name": "진호",
+    "country": "us",
+    "lang": "python"
+  }
+]
